@@ -132,7 +132,7 @@ int main()
 	  for(samp=0;samp<SAMPLE_NUM;samp++)
 		  receive();
     }
-    cout<<point<<" dB : "<<(double)biterrno/dsignal/2<<endl;
+    cout<<point<<" dB : "<<(double)biterrno/dsignal<<endl;
     record();
   }
 }
