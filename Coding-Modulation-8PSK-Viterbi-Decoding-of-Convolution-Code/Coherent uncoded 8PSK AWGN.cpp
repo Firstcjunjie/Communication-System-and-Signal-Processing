@@ -6,7 +6,7 @@
 
 using namespace std;
 
-#define  OUTPUTFILE  "Coherent uncoded 8PSK AWGN.txt.txt"
+#define  OUTPUTFILE  "Coherent uncoded 8PSK AWGN.txt"
 #define  OPENSTRING  "#Eb/No(dB) BitErrRate         BitErrSample  TotalSample \n"
 #define  DATASTRING  "%5.2f      %18.16f %7d %11u \n",\
                      (snrdb),(double)biterrno/dsignal/3,biterrno,dsignal,deviate
