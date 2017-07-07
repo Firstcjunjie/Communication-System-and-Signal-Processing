@@ -9,7 +9,7 @@ using namespace std;
 #define  OUTPUTFILE  "Coherent uncoded 8PSK AWGN.txt"
 #define  OPENSTRING  "#Eb/No(dB) BitErrRate         BitErrSample  TotalSample \n"
 #define  DATASTRING  "%5.2f      %18.16f %7d %11u \n",\
-                     (snrdb),(double)biterrno/dsignal/3,biterrno,dsignal,deviate
+                     (snrdb),(double)biterrno/dsignal,biterrno,dsignal,deviate
 #define  DB0		0
 #define  DBSTEP		1.0
 #define  POINTNO	11
@@ -175,7 +175,7 @@ int main(){
 	          for(samp=0;samp<SAMPLE_NUM;samp++)
 		          tx_to_rx();
         }
-        cout<<point<<" dB : "<<(double)biterrno/dsignal/3<<endl;
+        cout<<point<<" dB : "<<(double)biterrno/dsignal<<endl;
         record();
     }
     
