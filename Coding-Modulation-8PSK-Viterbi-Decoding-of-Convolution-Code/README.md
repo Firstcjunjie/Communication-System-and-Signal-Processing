@@ -8,7 +8,7 @@ This project includes the following parts :
 
 (3) Coherent 8PSK BER simulation
 
-(4) Coherent 8PSK with convolution code and Viterbi decoding simulation
+(4) Coherent 8PSK with convolution code and Viterbi decoding simulation </p>
 
 
 
