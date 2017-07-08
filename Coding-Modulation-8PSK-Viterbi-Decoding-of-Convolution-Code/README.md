@@ -2,7 +2,7 @@
 
 ---
 
-This project includes the following parts :
+This project includes the following parts
 
 ---
 
@@ -16,7 +16,7 @@ This project includes the following parts :
 
 ---
 
-The details of Coherent 8PSK with convolution code and Viterbi decoding : 
+The details of Coherent 8PSK with convolution code and Viterbi decoding 
 
 ---
 
