@@ -20,7 +20,7 @@ ch = zeros(1,ch_leng);            % Channel response
 tx_hat = zeros(1,tx_leng);        % Estimation of transmitted symbols
 error = 0;                        % LMS algorithm error
 w = zeros(w_length,1);            % Filter
-miu = 10^(-1);                       % LMS algorithm learning rate
+miu = 10^(-1);                    % LMS algorithm learning rate
 
 % Transmitted symbols 
 for t = 1:tx_leng                 
