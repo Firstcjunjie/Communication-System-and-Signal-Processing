@@ -60,7 +60,7 @@ scatter(real(tx_hat),imag(tx_hat),20,'b');   % LMS estimation
 hold on;
 
 axis([-2,2,-2,2]);                        
-legend('Transmitted symbols','Received symbols','LMS estimation')
+legend('Transmitted symbols','Received symbols','LMS estimation');
 title('LMS algorithm equalization for QPSK');
 xlabel('Real');
 ylabel('Imaginary');
