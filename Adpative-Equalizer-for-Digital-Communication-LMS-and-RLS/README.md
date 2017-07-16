@@ -14,6 +14,8 @@ With symbol rate sampling at the receiver, the received signal may be expressed 
 
 ![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Sample-at-the-receiver.PNG)
 
+where d[n] is the sequence of transmitted symbols.
+
 ---
 
 Least Mean Square
