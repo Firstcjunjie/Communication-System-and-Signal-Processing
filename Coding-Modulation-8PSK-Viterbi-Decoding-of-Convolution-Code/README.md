@@ -28,6 +28,8 @@ The details of Coherent 8PSK with convolution code and Viterbi decoding
 
 ![alt text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Coding-Modulation-8PSK-Viterbi-Decoding-of-Convolution-Code/Images/Encoder.PNG)
 
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Coding-Modulation-8PSK-Viterbi-Decoding-of-Convolution-Code/Images/Convolution-encoder.PNG)
+
 (3) Trellis diagram for Viterbi algorithm
 
 ![alt text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Coding-Modulation-8PSK-Viterbi-Decoding-of-Convolution-Code/Images/Trellis_diagram.PNG)
