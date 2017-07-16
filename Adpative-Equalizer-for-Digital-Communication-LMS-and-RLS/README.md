@@ -20,13 +20,7 @@ q[n] is the symbol-rate sampled version of the multipath distorted pulse symbol 
 
 ![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Symbol-rate-sampled-version-of-the-multipath-distorted-pulse-symbol-waveform.PNG)
 
-symbol rate
-
-complex gain of k-th multipath arrival
-
-relative time-delay of k-th multipath arrival
-
-undistorted pulse symbol waveform (after matched filtering)
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Waveform-description.PNG)
 
 
 ---
