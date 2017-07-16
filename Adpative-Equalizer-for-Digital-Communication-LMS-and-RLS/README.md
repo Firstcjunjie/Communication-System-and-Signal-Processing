@@ -16,6 +16,10 @@ With symbol rate sampling at the receiver, the received signal may be expressed 
 
 where d[n] is the sequence of transmitted symbols.
 
+q[n] is the symbol-rate sampled version of the multipath distorted pulse symbol waveform
+
+![alt_text]()
+
 ---
 
 Least Mean Square
