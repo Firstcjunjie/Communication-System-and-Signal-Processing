@@ -48,7 +48,9 @@ Least Mean Square ( LMS ) filter for adaptive equalization
 
 Least mean squares (LMS) algorithms are a class of adaptive filter used to mimic a desired filter by finding the filter 
 
-coefficients that relate to producing the least mean square of the error signal (difference between the desired and the actual signal).
+coefficients that relate to producing the least mean square of the error signal (difference between the desired and the actual 
+
+signal).
 
 ![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/LMS-algorithm.PNG)
 
