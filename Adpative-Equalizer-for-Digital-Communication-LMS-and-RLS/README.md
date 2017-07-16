@@ -10,6 +10,8 @@ Our goal is to deal with narrowband digital communications using linear modulati
 
 ![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Multipath-effect-block-diagram.PNG)
 
+With symbol rate sampling at the receiver, the received signal may be expressed as
+
 ---
 
 Least Mean Square
