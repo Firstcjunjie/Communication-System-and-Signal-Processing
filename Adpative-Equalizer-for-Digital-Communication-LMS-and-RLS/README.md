@@ -26,6 +26,10 @@ p(t) is assumed to have a raised cosine spectrum so that it may described in the
 
 ![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Raised-cosine.PNG)
 
+q[n] may be expressed as 
+
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Distorted-waveform.PNG)
+
 ---
 
 Least Mean Square
