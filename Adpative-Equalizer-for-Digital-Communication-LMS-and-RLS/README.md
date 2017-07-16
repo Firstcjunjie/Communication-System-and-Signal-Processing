@@ -38,12 +38,17 @@ The process of equalization involves finding an inverse filter with impulse resp
 
 ---
 
-Least Mean Square filter
+Least Mean Square filter for adaptive equalization
 
 ---
 
 ![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/LMS-algorithm.PNG)
 
+---
+
+Outcome of LMS adaptive equalization
+
+---
 
 ![alt text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/LMS%20filter%20equlization%20for%20QPSK.png)
 
