@@ -62,7 +62,7 @@ Recursive Least Square ( RLS ) filter for adaptive equalization
 
 ---
 
-
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/RLS-algorithm.PNG)
 
 
 
