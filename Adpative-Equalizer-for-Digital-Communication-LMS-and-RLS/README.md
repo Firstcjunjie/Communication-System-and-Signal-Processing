@@ -30,6 +30,10 @@ q[n] ( 2-ray ) may be expressed as
 
 ![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Distorted-waveform.PNG)
 
+The process of equalization involves finding an inverse filter with impulse response w[n]
+
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Filter-block-diagram.PNG)
+
 ---
 
 Least Mean Square
