@@ -42,7 +42,7 @@ The process of equalization involves finding an inverse filter with impulse resp
 
 ---
 
-Least Mean Square filter for adaptive equalization
+Least Mean Square ( LMS ) filter for adaptive equalization
 
 ---
 
@@ -58,7 +58,7 @@ Outcome of LMS adaptive equalization
 
 ---
 
-Recursive Least Square filter for adaptive equalization
+Recursive Least Square ( RLS ) filter for adaptive equalization
 
 ---
 
