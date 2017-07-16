@@ -18,7 +18,7 @@ where d[n] is the sequence of transmitted symbols.
 
 q[n] is the symbol-rate sampled version of the multipath distorted pulse symbol waveform
 
-![alt_text]()
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Symbol-rate-sampled-version-of-the-multipath-distorted-pulse-symbol-waveform.PNG)
 
 ---
 
