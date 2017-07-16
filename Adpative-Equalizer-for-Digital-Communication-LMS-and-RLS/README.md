@@ -73,5 +73,7 @@ Outcome of RLS adaptive equalization
 
 ---
 
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/RLS%20filter%20equlization%20for%20QPSK.png)
+
 
 
