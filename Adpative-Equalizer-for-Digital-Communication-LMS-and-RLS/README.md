@@ -26,7 +26,7 @@ complex gain of k-th multipath arrival
 
 relative time-delay of k-th multipath arrival
 
-undistorted pulse symbol waveform (after matched ltering)
+undistorted pulse symbol waveform (after matched filtering)
 
 
 ---
