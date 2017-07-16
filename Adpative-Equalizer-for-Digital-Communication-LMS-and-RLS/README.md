@@ -6,6 +6,8 @@ Description of problem
 
 ---
 
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Adpative-Equalizer-for-Digital-Communication-LMS-and-RLS/images/Multipath-effect-block-diagram.PNG)
+
 ---
 
 Least Mean Square
