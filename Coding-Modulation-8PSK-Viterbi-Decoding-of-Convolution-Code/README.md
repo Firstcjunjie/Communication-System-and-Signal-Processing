@@ -36,7 +36,7 @@ The details of Coherent 8PSK with convolution code and Viterbi decoding
 
 (4) Encoder FSM
 
-![alt_text]()
+![alt_text](https://github.com/wei-lin-liao/Communication-System-and-Signal-Processing/blob/master/Coding-Modulation-8PSK-Viterbi-Decoding-of-Convolution-Code/Images/Encoder-FSM.PNG)
 
 (5) Trellis diagram for Viterbi algorithm
 
