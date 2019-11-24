@@ -25,7 +25,7 @@ miu = 10^(-1);                    % LMS algorithm learning rate
 
 % Sequence of transmitted symbols
 for n = 1:d_leng                 
-	d(1,n) = sgn(-2*rand+1) + j*sgn(-2*rand+1);  % Random generationn
+	d(1,n) = sign(-2*rand+1) + j*sign(-2*rand+1);  % Random generationn
 end
 
 % Multipath distorted pulse symbol waveform 
